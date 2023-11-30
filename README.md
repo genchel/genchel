@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **genchel/genchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello there!
+
+- I worked as an analyst.
+- Completed the Data Science course from Yandex.Practicum. Developed machine learning <br/>models for optimizing parts of businesses from various fields using libraries: pandas, numpy, <br/>matplotlib, sklearn, catboost, tensorflow.
+
+[Portfolio](https://github.com/genchel/portfolio) <br/>
+[Connect with me](https://t.me/magatsumegami)
+
