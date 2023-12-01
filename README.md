@@ -1,25 +1,8 @@
 ### Hey there 👋
 
-<!--
-**genchel/genchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as an analyst.
+- 🌱 Completed the Data Science course by Yandex.Practicum. Developed machine learning <br/>models for optimizing parts of businesses from various fields using libraries: pandas, numpy, <br/>matplotlib, sklearn, catboost, tensorflow.
+- 🤔 I’m looking for job as  Data Scientist: [Portfolio](https://github.com/genchel/portfolio) <br/>
+- 📫 How to reach me: [Telegram](https://t.me/magatsumegami)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hello there!
-
-- I worked as an analyst.
-- Completed the Data Science course from Yandex.Practicum. Developed machine learning <br/>models for optimizing parts of businesses from various fields using libraries: pandas, numpy, <br/>matplotlib, sklearn, catboost, tensorflow.
-
-[Portfolio](https://github.com/genchel/portfolio) <br/>
-[Connect with me](https://t.me/magatsumegami)
 
